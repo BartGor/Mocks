@@ -1,7 +1,13 @@
 package com.demo.camera;
 
+import java.time.LocalTime;
+
 public class PhotoCamera {
 
+
+
+
+    LocalTime localTime.
     public void turnOn() {
         // not implemented
     }
